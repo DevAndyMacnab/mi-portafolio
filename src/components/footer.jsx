@@ -48,7 +48,7 @@ function Footer() {
 					</div>
 				</div>
 			<p className="text-sm mt-2  opacity-50">
-				&copy; {new Date().getFullYear()} Andy Macnab. All rights reserved.
+				&copy; {new Date().getFullYear()} Andy Macnab. Todos los derechos reservados.
 			</p>
 		</div>
 	);

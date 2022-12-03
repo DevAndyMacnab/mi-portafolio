@@ -10,12 +10,12 @@ function Contact() {
                method="POST"
                className="flex flex-col w-full md:w-7/12"
             >
-               <Title>Contact</Title>
+               <Title>Contacto</Title>
                <input
                   type="text"
                   name="name"
                   required
-                  placeholder="Name"
+                  placeholder="Nombre"
                   className="p-2 bg-transparent border-2 rounded-md focus:outline-none"
                />
                <input
@@ -27,7 +27,7 @@ function Contact() {
                />
                <textarea
                   name="message"
-                  placeholder="Message"
+                  placeholder="Mensaje"
                   required
                   rows="10"
                   className="p-2 mb-4 bg-transparent border-2 rounded-md focus:outline-none"
