@@ -6,7 +6,6 @@ import Contact from './components/contact.jsx';
 import Footer from './components/footer.jsx';
 
 
-
 function App() {
 	const [theme, setTheme] = useState(null);
 
