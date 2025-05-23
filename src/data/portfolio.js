@@ -19,10 +19,10 @@ export default [{
 },
 
 {
-    title: "Portal Web de Bienes Raices (En desarrollo)",
+    title: "Portal Web de Bienes Raices ",
     imgUrl:'/assets/bienesraices.png',
-    stack:["Node.Js","Express","MySQL","Pug","Sequelize","Tailwindcss","JWT" ],
-    link:"https://github.com/DevAndyMacnab/Portal-Web-Bienes-Raices"
+    stack:["Node.Js","Express","MySQL","Sequelize","Tailwindcss","JWT" ],
+    link:""
 },
 
 {
@@ -50,7 +50,7 @@ export default [{
     title: "Página Web",
     imgUrl:'/assets/wordpress.png',
     stack:["Wordpress","Web Design"],
-    link:"https://www.iglesiadecristolinajereal.org/"
+    link:""
 },
 
 {
